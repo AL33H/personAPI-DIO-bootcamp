@@ -2,7 +2,7 @@
 # personAPI-DIO-bootcamp
 
 ## Sobre
-### Projeto do BootCamp Capgemini Fullstack Java and Angular da plantaforma DIO, colocando em pratica nossos conhecimentos.
+### Projeto do BootCamp Capgemini Fullstack Java and Angular da plataforma Digital Innovation One (DIO), aplicando conhecimentos adquiridos.
 
 
 
