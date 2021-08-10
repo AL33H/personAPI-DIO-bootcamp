@@ -2,7 +2,7 @@
 # personAPI-DIO-bootcamp
 
 ## Sobre
-### Projeto do BootCamp Capgemini Fullstack Java and Angular da plataforma Digital Innovation One (DIO), aplicando conhecimentos adquiridos.
+#### Projeto do BootCamp Capgemini Fullstack Java and Angular da plataforma Digital Innovation One (DIO), aplicando conhecimentos adquiridos.
 
 
 
@@ -10,9 +10,9 @@
 
 ## Técnologias.
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"  height="68" width="68"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" align="left"  height="68" width="68"/>
 
-<img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" title="Springboot" height="68" width="68"/>
+<img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"  title="Springboot" height="68" width="68"/>
 
 
 
@@ -25,3 +25,4 @@
 - #### JUnit - Automatização de Testes.
 - #### Padrão de Arquitetura REST.
 - #### Implantação do sistema na nuvem (Heroku).
+- #### MapStruct - Gerador de código.
