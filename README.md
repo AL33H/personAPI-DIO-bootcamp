@@ -2,13 +2,15 @@
 # personAPI-DIO-bootcamp
 
 ## Sobre
-#### Projeto do BootCamp Capgemini Fullstack Java and Angular da plantaforma DIO, colocando em pratica nossos conhecimentos.
+### Projeto do BootCamp Capgemini Fullstack Java and Angular da plantaforma DIO, colocando em pratica nossos conhecimentos.
+
+
 
 
 
 ## Técnologias.
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" title="Java"align="left" height="68" width="68"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"  height="68" width="68"/>
 
 <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" title="Springboot" height="68" width="68"/>
 
