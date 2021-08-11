@@ -2,10 +2,18 @@
 # personAPI-DIO-bootcamp
 
 ## Sobre
-#### Projeto do BootCamp Capgemini Fullstack Java and Angular da plataforma Digital Innovation One (DIO), aplicando conhecimentos adquiridos.
+#### Projeto do BootCamp Capgemini Fullstack Java and Angular da plataforma Digital Innovation One (DIO), aplicando conhecimentos adquiridos, implementando um CRUD de Person seguindo o protocolo HTTP.
 
+<br>
+<br>
 
-
+| REQUEST | URL | NOTE |
+| ------ | ------ | ------ |
+| POST |  /api/v1/people | Insert Person 
+| GET |  /api/v1/people | List All Person 
+| GET |  /api/v1/people/{id} | List Person with id
+| DELETE |  /api/v1/people/{id} | Delete Person with Id
+| PUT |  /api/v1/people/{id} | Update Person with Id
 
 
 ## Técnologias.
