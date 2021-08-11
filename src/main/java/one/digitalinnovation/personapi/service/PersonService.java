@@ -78,4 +78,13 @@ public class PersonService {
                 .message(message + id)
                 .build();
     }
+
+    public MessageResponseDTO create(PersonDTO personDTO) {
+        Person person = personMapper.toModel(personDTO);
+        Person savedPerson = personRepository.save(person);
+
+        MessageResponseDTO messageResponse = createMessageResponse(savedPerson.getId(), "Person successfully created with ID ");
+
+        return messageResponse;
+    }
 }
